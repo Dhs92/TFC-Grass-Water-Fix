@@ -1180,11 +1180,19 @@
     "culling": true,
     "occluding": true
   },
+  "tfc:grass_path/silt": {
+    "culling": true,
+    "occluding": true
+  },
   "tfc:grass/loam": {
     "culling": true,
     "occluding": true
   },
   "tfc:clay_grass/loam": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:grass_path/loam": {
     "culling": true,
     "occluding": true
   },
@@ -1196,6 +1204,10 @@
     "culling": true,
     "occluding": true
   },
+  "tfc:grass_path/sandy": {
+    "culling": true,
+    "occluding": true
+  },
   "tfc:grass/silty_loam": {
     "culling": true,
     "occluding": true
@@ -1204,11 +1216,19 @@
     "culling": true,
     "occluding": true
   },
+  "tfc:grass_path/silty_loam": {
+    "culling": true,
+    "occluding": true
+  },
   "tfc:grass/sandy_loam": {
     "culling": true,
     "occluding": true
   },
   "tfc:clay_grass/sandy_loam": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:grass_path/sandy_loam": {
     "culling": true,
     "occluding": true
   }
