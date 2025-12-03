@@ -11,8 +11,10 @@ try {
 	}
 
 	Write-Host "Creating $ZipName containing 'assets' and 'pack.mcmeta'..."
-	$items = @("assets", "pack.mcmeta")
-	Compress-Archive -Path $items -DestinationPath $ZipName -Force -ErrorAction Stop
+	& 7z a -tzip $ZipName assets pack.mcmeta | Out-Null
+	if ($LASTEXITCODE -ne 0) {
+		throw "7z failed with exit code $LASTEXITCODE"
+	}
 
 	Write-Host "Zip created: $ZipName"
 } catch {
