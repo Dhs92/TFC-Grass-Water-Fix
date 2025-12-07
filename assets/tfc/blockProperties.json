@@ -1172,63 +1172,131 @@
     "culling": true,
     "occluding": true
   },
-  "tfc:grass/silt": {
+  "tfc:grass/alfisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:clay_grass/silt": {
+  "tfc:grass/andisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:grass_path/silt": {
+  "tfc:grass/aridisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:grass/loam": {
+  "tfc:grass/entisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:clay_grass/loam": {
+  "tfc:grass/fluvisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:grass_path/loam": {
+  "tfc:grass/mollisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:grass/sandy": {
+  "tfc:grass/oxisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:clay_grass/sandy": {
+  "tfc:grass/podzol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:grass_path/sandy": {
+  "tfc:clay_grass/alfisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:grass/silty_loam": {
+  "tfc:dirt/alfisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:clay_grass/silty_loam": {
+  "tfc:grass_path/alfisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:grass_path/silty_loam": {
+  "tfc:clay_grass/andisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:grass/sandy_loam": {
+  "tfc:dirt/andisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:clay_grass/sandy_loam": {
+  "tfc:grass_path/andisol": {
     "culling": true,
     "occluding": true
   },
-  "tfc:grass_path/sandy_loam": {
+  "tfc:clay_grass/aridisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:dirt/aridisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:grass_path/aridisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:clay_grass/entisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:dirt/entisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:grass_path/entisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:clay_grass/fluvisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:dirt/fluvisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:grass_path/fluvisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:clay_grass/mollisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:dirt/mollisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:grass_path/mollisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:clay_grass/oxisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:dirt/oxisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:grass_path/oxisol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:clay_grass/podzol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:dirt/podzol": {
+    "culling": true,
+    "occluding": true
+  },
+  "tfc:grass_path/podzol": {
     "culling": true,
     "occluding": true
   },
